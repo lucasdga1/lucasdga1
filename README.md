@@ -5,21 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasdga1" alt="lucasdga1" /></a> </p>
 
-- 🔭 Estou trabalhando com **ensino de basquete na EAB**
+## Quem sou eu?
+•	SOU LUCAS, CRISTÃO CATÓLICO, PROCURO PRATICAR E APRENDER CADA VEZ MAIS SOBRE A MINHA FÉ PARA QUE EU POSSA TRAZER O BEM PARA AS PESSOAS. SOU UMA PESSOA CALMA, QUE APRECIA AMBIENTES TRANQUILOS, ACOLHEDORES, ACONCHEGANTES. SOU UMA PESSOA COMPETITIVA E BUSCO SEMPRE MEU MELHOR, GOSTO DE ANALISAR, PLANEJAR, ESTUDAR E ORGANIZAR MINHAS TAREFAS E OBJETIVOS. SOU UMA PESSOA QUE PREZA PELA PONTUALIDADE, HONESTIDADE, SINCERIDADE, CUIDADO E JUSTIÇA, E BUSCO SEMPRE APLICAR ESSES VALORES NAS MINHAS AÇÕES.
 
-- 🌱 Estou aprendendo **Ciência de dados na EBAC**
+•	SOU PROFESSOR DE EDUCAÇÃO FÍSICA E ENSINO VALORES ATRAVÉS DA PRÁTICA ESPORTIVA; ESPECIALIZADO EM BASQUETE, NA COLETA E ANÁLISE DE DADOS ESTATÍSTICOS, NO ENSINO TÁTICO, TÉCNICO, PSICOMOTOR, ATITUDINAL, E TREINAMENTO DE EQUIPES, ALÉM DE SER FORMADO EM GUITARRA ELÉTRICA E LUTHIER.
 
-- 👯 Procuro colaborar com **análise de dados**
+## Ferramentas e tecnologias
+![Static Badge](https://img.shields.io/badge/Excel?style=for-the-badge&logo=Excel&logoColor=green)
 
-- 👨‍💻 Meus projetos estão disponíveis em: [https://github.com/lucasdga1](https://github.com/lucasdga1)
 
-- 💬 Me pergunte sobre **Basquete e guitarra!!**
 
-- 📫 Como me encontrar **lucas.dga1@gmail.com**
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lucasdga1&theme=tokyonight)](https://git.io/streak-stats)
 
-- 📄 Saiba mais sobre mim em: [linkedin.com/in/lucas-andrade-890790150](linkedin.com/in/lucas-andrade-890790150)
 
-- ⚡ Fatos interessantes: **Sou formado em guitarra e luthier!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,7 +25,13 @@
 <a href="https://instagram.com/lucasdanziger1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucasdanziger1" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasdga1&show_icons=true&locale=en" alt="lucasdga1" /></p>
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/lucasdga1/lucasdga1/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 
