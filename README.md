@@ -11,7 +11,7 @@
 •	SOU PROFESSOR DE EDUCAÇÃO FÍSICA E ENSINO VALORES ATRAVÉS DA PRÁTICA ESPORTIVA; ESPECIALIZADO EM BASQUETE, NA COLETA E ANÁLISE DE DADOS ESTATÍSTICOS, NO ENSINO TÁTICO, TÉCNICO, PSICOMOTOR, ATITUDINAL, E TREINAMENTO DE EQUIPES, ALÉM DE SER FORMADO EM GUITARRA ELÉTRICA E LUTHIER.
 
 ## Ferramentas e tecnologias
-![Static Badge](https://img.shields.io/badge/Excel?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Excel)
 
 
 
