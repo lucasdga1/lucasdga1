@@ -11,7 +11,21 @@
 •	SOU PROFESSOR DE EDUCAÇÃO FÍSICA E ENSINO VALORES ATRAVÉS DA PRÁTICA ESPORTIVA; ESPECIALIZADO EM BASQUETE, NA COLETA E ANÁLISE DE DADOS ESTATÍSTICOS, NO ENSINO TÁTICO, TÉCNICO, PSICOMOTOR, ATITUDINAL, E TREINAMENTO DE EQUIPES, ALÉM DE SER FORMADO EM GUITARRA ELÉTRICA E LUTHIER.
 
 ## Ferramentas e tecnologias
-![Static Badge](https://img.shields.io/badge/Excel)
+<div align="left">
+  <img src="https://img.shields.io/badge/Apple-000000?logo=apple&logoColor=white&style=for-the-badge" height="40" alt="apple logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Google Chrome-4285F4?logo=googlechrome&logoColor=white&style=for-the-badge" height="40" alt="chrome logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=black&style=for-the-badge" height="40" alt="kaggle logo"  />
+  <img src="https://img.shields.io/badge/Youtube--informational?logo=Youtube&style=for-the-badge&logoColor=f60909&color=ef0b0b&labelColor=fcfcfc" />
+  <img src="https://img.shields.io/badge/Excel--informational?logo=Microsoft%20Excel&style=for-the-badge&logoColor=19f609&color=18a206&labelColor=13890b" />
+  <img src="https://img.shields.io/badge/Looker%20studio--informational?logo=Looker%20Studio&style=for-the-badge&logoColor=0938f6&color=060ba2&labelColor=15039b" />
+  <img src="https://img.shields.io/badge/Powerpoint--informational?logo=Powerpoint&style=for-the-badge&logoColor=91081c&color=a2061d&labelColor=9b0303" />
+  <img src="https://img.shields.io/badge/Word--informational?logo=&style=for-the-badge&logoColor=180891&color=060ba2&labelColor=030d9b" />
+  <img src="https://img.shields.io/badge/Basketball%20Stat%20Tracker--informational?logo=&style=for-the-badge&logoColor=ffffff&color=dcdce5&labelColor=010183" />
+  <img src="https://img.shields.io/badge/NBA--informational?logo=NBA&style=for-the-badge&logoColor=f8f7f7&color=a30505&labelColor=060dd0" />
+</div>
+
 
 
 
