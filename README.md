@@ -40,14 +40,7 @@
 <a href="https://instagram.com/lucasdanziger1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucasdanziger1" height="30" width="40" /></a>
 </p>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/lucasdga1/lucasdga1/output/snake.svg" alt="Snake animation" />
-
-###
-
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 
 
 
