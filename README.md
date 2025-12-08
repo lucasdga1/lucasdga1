@@ -29,7 +29,7 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lucasdga1&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lucasdga1)](https://git.io/streak-stats)
 
 
 
