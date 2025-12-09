@@ -41,18 +41,7 @@
 </a>
 </p>
 
-npm install pacman-contribution-graph
 
-import { PacmanRenderer } from 'pacman-contribution-graph';
-
-const pr = new PacmanRenderer({
-    platform: 'github',
-    username: 'lucasdga1',
-    canvas: document.getElementById('canvas'),
-    outputFormat: 'canvas',
-    gameTheme: 'github'
-});
-pr.start();
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasdga1/lucasdga1/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucasdga1/lucasdga1/output/pacman-contribution-graph.svg">
