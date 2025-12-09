@@ -42,6 +42,17 @@
 </p>
 
 
+<script src="https://cdn.jsdelivr.net/npm/pacman-contribution-graph@2.0.0/dist/index.min.js"></script>
+import { generatePacManGame } from 'pacman-contribution-graph';
+
+generatePacManGame({
+	username: lucasdga1
+	platform: github
+	theme: github-dark
+	speed: 2,
+	sound: false
+	output: canvas
+});
 
 
 
