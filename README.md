@@ -42,17 +42,12 @@
 </p>
 
 
-<script src="https://cdn.jsdelivr.net/npm/pacman-contribution-graph@2.0.0/dist/index.min.js"></script>
-import { generatePacManGame } from 'pacman-contribution-graph';
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasdga1/lucasdga1/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucasdga1/lucasdga1/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lucasdga1/lucasdga1/output/pacman-contribution-graph.svg">
+</picture>
 
-generatePacManGame({
-	username: lucasdga1
-	platform: github
-	theme: github-dark
-	speed: 2,
-	sound: false
-	output: canvas
-});
-
+_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
 
 
