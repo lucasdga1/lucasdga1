@@ -11,6 +11,10 @@
 
 •	SOU PROFESSOR DE EDUCAÇÃO FÍSICA E ENSINO VALORES ATRAVÉS DA PRÁTICA ESPORTIVA; ESPECIALIZADO EM BASQUETE, NA COLETA E ANÁLISE DE DADOS ESTATÍSTICOS, NO ENSINO TÁTICO, TÉCNICO, PSICOMOTOR, ATITUDINAL, E TREINAMENTO DE EQUIPES, ALÉM DE SER FORMADO EM GUITARRA ELÉTRICA E LUTHIER.
 
+
+![229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a](https://github.com/user-attachments/assets/8f60e462-dc40-4fc3-85c1-b9653cddb91d)
+![212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c](https://github.com/user-attachments/assets/553e7af1-e1b1-46ee-b648-bdb48ffa3ae5)
+
 ## Ferramentas e tecnologias
 <div align="left">
   <img src="https://img.shields.io/badge/Apple-000000?logo=apple&logoColor=white&style=for-the-badge" height="40" alt="apple logo"  />
@@ -41,8 +45,6 @@
 <a href="lucas.dga1@gmail.com" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </a>
-
-
 
 
 </p>
