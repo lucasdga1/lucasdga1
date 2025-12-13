@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Lucas Andrade</h1>
-<h3 align="center">Treinador de basquete, estudante de ciência de dados e análise de dados.</h3>
+<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/dd2da5f3-5b58-4e48-b222-605538d52caa" />
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasdga1&label=Profile%20views&color=0e75b6&style=flat" alt="lucasdga1" /> </p>
 
