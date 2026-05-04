@@ -7,9 +7,20 @@
 
 
 ## Quem sou eu?
-•	SOU LUCAS, CRISTÃO CATÓLICO, PROCURO PRATICAR E APRENDER CADA VEZ MAIS SOBRE A MINHA FÉ PARA QUE EU POSSA TRAZER O BEM PARA AS PESSOAS. SOU UMA PESSOA CALMA, QUE APRECIA AMBIENTES TRANQUILOS, ACOLHEDORES, ACONCHEGANTES. SOU UMA PESSOA COMPETITIVA E BUSCO SEMPRE MEU MELHOR, GOSTO DE ANALISAR, PLANEJAR, ESTUDAR E ORGANIZAR MINHAS TAREFAS E OBJETIVOS. SOU UMA PESSOA QUE PREZA PELA PONTUALIDADE, HONESTIDADE, SINCERIDADE, CUIDADO E JUSTIÇA, E BUSCO SEMPRE APLICAR ESSES VALORES NAS MINHAS AÇÕES.
+Sou cientista de dados com formação em Educação Física pela Universidade de Brasília e especialização prática em Data Science pela Escola Britânica de Artes Criativas e Tecnologia. Tenho experiência em transformar dados em decisões acionáveis: desde coleta e tratamento até modelagem preditiva e visualização, sempre com foco em impacto para negócios e performance esportiva.
+Trabalhei na Escola Americana de Brasília, onde introduzi uma cultura de análise de dados aplicada ao esporte escolar — coletei e tratei estatísticas de temporada com Power Query, analisei com tabelas dinâmicas e estatística aplicada, e produzi relatórios que orientaram decisões táticas e de formação. Em projetos pessoais e acadêmicos desenvolvi dashboards e modelos preditivos usando SQL, Python (Pandas, NumPy), scikit-learn, Plotly e Looker, aplicando técnicas de feature engineering, cross‑validation, PCA e otimização de hiperparâmetros.
 
-•	SOU PROFESSOR DE EDUCAÇÃO FÍSICA E ENSINO VALORES ATRAVÉS DA PRÁTICA ESPORTIVA; ESPECIALIZADO EM BASQUETE, NA COLETA E ANÁLISE DE DADOS ESTATÍSTICOS, NO ENSINO TÁTICO, TÉCNICO, PSICOMOTOR, ATITUDINAL, E TREINAMENTO DE EQUIPES, ALÉM DE SER FORMADO EM GUITARRA ELÉTRICA E LUTHIER.
+
+O que eu entrego
+Modelos preditivos práticos (Regressão logística, Random Forest) para classificação e risco.
+Dashboards e relatórios que conectam métricas ao negócio, com foco em clareza e ação.
+Pipelines de ETL e Data Cleaning robustos para garantir qualidade e reprodutibilidade.
+Comunicação clara entre times técnicos e stakeholders para transformar análise em resultado.
+Ferramentas e competências principais
+Python, Pandas, NumPy, scikit‑learn, Plotly, Seaborn; SQL; Power Query; Looker; Power BI; Git/GitHub; ETL; Feature engineering; Model evaluation; Cross‑validation; PCA; Random Forest; Regressão logística.
+Como eu trabalho
+Sou orientado a resultados e colaboração: gosto de mapear problemas reais, prototipar soluções rápidas e iterar com feedback. Tenho perfil planejador/analítico, valorizo documentação e versionamento, e busco sempre alinhar modelos e visualizações às decisões que os times precisam tomar.
+Se você procura alguém que una raciocínio analítico, experiência prática em projetos de dados e habilidade para transformar insights em ações concretas, vamos conversar. Estou aberto a oportunidades em ciência de dados, analytics e BI.
 
 
 ![229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a](https://github.com/user-attachments/assets/8f60e462-dc40-4fc3-85c1-b9653cddb91d)
