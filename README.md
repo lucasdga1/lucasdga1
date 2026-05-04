@@ -11,7 +11,9 @@ Sou cientista de dados com formação em Educação Física pela Universidade de
 Trabalhei na Escola Americana de Brasília, onde introduzi uma cultura de análise de dados aplicada ao esporte escolar — coletei e tratei estatísticas de temporada com Power Query, analisei com tabelas dinâmicas e estatística aplicada, e produzi relatórios que orientaram decisões táticas e de formação. Em projetos pessoais e acadêmicos desenvolvi dashboards e modelos preditivos usando SQL, Python (Pandas, NumPy), scikit-learn, Plotly e Looker, aplicando técnicas de feature engineering, cross‑validation, PCA e otimização de hiperparâmetros.
 
 
-O que eu entrego
+O que eu entrego:
+
+
 Modelos preditivos práticos (Regressão logística, Random Forest) para classificação e risco.
 Dashboards e relatórios que conectam métricas ao negócio, com foco em clareza e ação.
 Pipelines de ETL e Data Cleaning robustos para garantir qualidade e reprodutibilidade.
