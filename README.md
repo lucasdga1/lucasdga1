@@ -53,12 +53,15 @@
 * Se você procura alguém que una raciocínio analítico, experiência prática em projetos de dados e habilidade para transformar insights em ações concretas, vamos conversar. Estou aberto a oportunidades em ciência de dados, analytics e BI.
 
 ### Detalhes
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasdga1&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projetos
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasdga1&repo=pedrogithub2406.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens utilizadas
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdga1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a](https://github.com/user-attachments/assets/8f60e462-dc40-4fc3-85c1-b9653cddb91d)
