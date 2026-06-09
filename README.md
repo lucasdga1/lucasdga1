@@ -49,20 +49,15 @@
 * Sou orientado a resultados e colaboração: gosto de mapear problemas reais, prototipar soluções rápidas e iterar com feedback. Tenho perfil planejador/analítico, valorizo documentação e versionamento, e busco sempre alinhar modelos e visualizações às decisões que os times precisam tomar.
 * Se você procura alguém que una raciocínio analítico, experiência prática em projetos de dados e habilidade para transformar insights em ações concretas, vamos conversar. Estou aberto a oportunidades em ciência de dados, analytics e BI.
 
-### Detalhes
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=lucasdga1&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=lucasdga1&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=lucasdga1&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasdga1)](https://github.com/anuraghazra/github-readme-stats)
+---
+[![](https://komarev.com/ghpvc/?username=lucasdga1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### Projetos
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/lucasdga1&repo=pedrogithub2406.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-### Linguagens utilizadas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdga1)](https://github.com/anuraghazra/github-readme-stats)
-
-![229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a](https://github.com/user-attachments/assets/8f60e462-dc40-4fc3-85c1-b9653cddb91d)
-![212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c](https://github.com/user-attachments/assets/553e7af1-e1b1-46ee-b648-bdb48ffa3ae5)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
