@@ -51,15 +51,15 @@
 
 ### Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasdga1)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apilucasdga1)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasdga1&repo=pedrogithub2406.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/lucasdga1&repo=pedrogithub2406.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdga1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/lucasdga1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a](https://github.com/user-attachments/assets/8f60e462-dc40-4fc3-85c1-b9653cddb91d)
 ![212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c](https://github.com/user-attachments/assets/553e7af1-e1b1-46ee-b648-bdb48ffa3ae5)
