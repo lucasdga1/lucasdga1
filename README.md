@@ -51,7 +51,7 @@
 
 ### Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apilucasdga1)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasdga1)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projetos
 
