@@ -17,7 +17,8 @@
  ![Static Badge](https://img.shields.io/badge/ScikitLearn?style=for-the-badge&logo=ScikitLearn)
  ![Static Badge](https://img.shields.io/badge/SQL?style=for-the-badge&logo=SQL)
 ![Static Badge](https://img.shields.io/badge/PowerBI?style=for-the-badge&logo=PowerBI)
-
+https://img.shields.io/badge/PowerBI?style=for-the-badge&logo=PowerBI
+<img src="https://img.shields.io/badge/PowerBI?style=for-the-badge&logo=PowerBI"  />
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=black&style=for-the-badge" height="40" alt="kaggle logo"  />
   <img src="https://img.shields.io/badge/Excel--informational?logo=Microsoft%20Excel&style=for-the-badge&logoColor=19f609&color=18a206&labelColor=13890b" />
   <img src="https://img.shields.io/badge/Looker%20studio--informational?logo=Looker%20Studio&style=for-the-badge&logoColor=0938f6&color=060ba2&labelColor=15039b" />
