@@ -45,9 +45,6 @@
 * Pipelines de ETL e Data Cleaning robustos para garantir qualidade e reprodutibilidade.
 * Comunicação clara entre times técnicos e stakeholders para transformar análise em resultado.
 
-## Ferramentas e competências principais
-* Python, Pandas, NumPy, scikit‑learn, Plotly, Seaborn; SQL; Power Query; Looker; Power BI; Git/GitHub; ETL; Feature engineering; Model evaluation; Cross‑validation; PCA; Random Forest; Regressão logística.
-
 ## Como eu trabalho
 * Sou orientado a resultados e colaboração: gosto de mapear problemas reais, prototipar soluções rápidas e iterar com feedback. Tenho perfil planejador/analítico, valorizo documentação e versionamento, e busco sempre alinhar modelos e visualizações às decisões que os times precisam tomar.
 * Se você procura alguém que una raciocínio analítico, experiência prática em projetos de dados e habilidade para transformar insights em ações concretas, vamos conversar. Estou aberto a oportunidades em ciência de dados, analytics e BI.
